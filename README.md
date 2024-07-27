@@ -23,7 +23,7 @@ This project is a Python-based alert system that monitors the dollar to PKR exch
 ## Installation
 1. Clone the repository:
    ```bash
-    git clone https://github.com/yourusername/dollar-petrol-price-alert.git
+    git clone https://github.com/Ahmad1015/Dollar-and-Petrol-Price-Alert-System.git
     cd dollar-petrol-price-alert
    ```
 2. Install the required Python packages:
